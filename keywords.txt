@@ -1,0 +1,2 @@
+Timer	KEYWORD2
+TimerFa	KEYWORD1

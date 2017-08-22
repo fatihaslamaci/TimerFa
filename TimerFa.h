@@ -7,6 +7,8 @@ class TimerFa {
     void Reset();
   private:
     volatile unsigned long SonOkunanMicrosaniye=0;
+    volatile unsigned long ArtikSure=0;
+
  };
 
 #endif
